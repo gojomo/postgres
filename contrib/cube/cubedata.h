@@ -1,6 +1,6 @@
 /* contrib/cube/cubedata.h */
 
-#define CUBE_MAX_DIM (100)
+#define CUBE_MAX_DIM (1000000)
 
 typedef struct NDBOX
 {
